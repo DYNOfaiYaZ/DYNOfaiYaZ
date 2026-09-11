@@ -103,26 +103,6 @@ An interactive web app that teaches how large language models work, breaking dow
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent / RAG Project
-
-A retrieval-augmented generation pipeline powering an autonomous agent — combining document retrieval, vector search, and LLM reasoning to answer grounded, context-aware queries.
-
-**Tech:** LangChain · LangGraph · ChromaDB · OpenAI API
-
-[Repository](https://github.com/DYNOfaiYaZ/Fine-Tuning) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
 
 </div>
