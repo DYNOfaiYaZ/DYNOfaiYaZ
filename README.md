@@ -103,14 +103,3 @@ An interactive web app that teaches how large language models work, breaking dow
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-📫 Reach out via LinkedIn or Instagram above — always open to collaborating on AI/LLM projects.
-
-</div>
